@@ -1,0 +1,53 @@
+.ban{
+  color:white;
+  
+  background-color: black;
+}
+.ad{
+  background-color: black;
+  color:white;
+}
+
+#li1{
+  width: 700px;
+  padding: 0px;
+}
+#but1{
+  color:blue;
+  
+}
+.ani{
+  background-image: url(../src/ani.jpg);
+  background-size:cover; 
+  
+}
+.cover{
+  background-image: url(../src/ani.jpg);
+  background-size:cover; 
+  
+}
+.bag{
+  align: center;
+}
+#btn1{
+  padding: -60%;
+}
+li:hover{
+  background-color: yellow;
+}
+.button1,.button2,.button3,.button4,.button6{border-radius: 50%;}
+.imgs {
+  border-radius: 50%;
+  border:  hidden;
+}
+.bod1{
+  background-color: rgb(196, 188, 188);
+}
+.hh{
+  background-color: blue;
+}
+
+.sp{
+  float: right;
+
+}
